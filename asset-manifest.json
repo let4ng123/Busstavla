@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/let4ng123/Busstavla.git/static/css/main.288ed416.css",
-    "main.js": "/let4ng123/Busstavla.git/static/js/main.5294d51a.js",
-    "static/js/453.df9043ad.chunk.js": "/let4ng123/Busstavla.git/static/js/453.df9043ad.chunk.js",
-    "index.html": "/let4ng123/Busstavla.git/index.html",
-    "main.288ed416.css.map": "/let4ng123/Busstavla.git/static/css/main.288ed416.css.map",
-    "main.5294d51a.js.map": "/let4ng123/Busstavla.git/static/js/main.5294d51a.js.map",
-    "453.df9043ad.chunk.js.map": "/let4ng123/Busstavla.git/static/js/453.df9043ad.chunk.js.map"
+    "main.css": "/let4ng123/Busstavla.io/static/css/main.288ed416.css",
+    "main.js": "/let4ng123/Busstavla.io/static/js/main.6bd059a1.js",
+    "static/js/453.df9043ad.chunk.js": "/let4ng123/Busstavla.io/static/js/453.df9043ad.chunk.js",
+    "index.html": "/let4ng123/Busstavla.io/index.html",
+    "main.288ed416.css.map": "/let4ng123/Busstavla.io/static/css/main.288ed416.css.map",
+    "main.6bd059a1.js.map": "/let4ng123/Busstavla.io/static/js/main.6bd059a1.js.map",
+    "453.df9043ad.chunk.js.map": "/let4ng123/Busstavla.io/static/js/453.df9043ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.288ed416.css",
-    "static/js/main.5294d51a.js"
+    "static/js/main.6bd059a1.js"
   ]
 }
